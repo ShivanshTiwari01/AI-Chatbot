@@ -1,4 +1,4 @@
-# AI Chatbot - Python Django with OpenAI API
+# AI Chatbot - Python Django Application
 ### Introduction
 
 This project implements an AI chatbot using the OpenAI API, built on top of the Django web framework. Engage in interactive conversations, generate creative text formats, or answer your questions in an informative way.
